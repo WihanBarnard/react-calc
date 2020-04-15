@@ -1,3 +1,10 @@
+Basic JS calculator using react. Followign along to 
+Brice Ayres at: https://www.youtube.com/watch?v=KzYUuTiHdiY
+
+Note: mathjs lib is used to do the mathematical calculations.
+
+# See boiler plate readme below:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
